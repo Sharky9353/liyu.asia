@@ -1,3 +1,3 @@
 # liyu.asia
 
-！【本地路径](hfoh63f3.png "1")
+![本地路径](hfoh63f3.png "1")
