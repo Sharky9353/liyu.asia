@@ -1,3 +1,3 @@
-# liyu.asia
+# “你最可爱”，我说时来不及思索，而思索之后，还是这样说。
 
-![项目绝对路径](https://github.com/Sharky9353/sharky.github.io/blob/main/hfoh63f3.png "1")
+![](https://github.com/Sharky9353/sharky.github.io/blob/main/hfoh63f3.png "1")
